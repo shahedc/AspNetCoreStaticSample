@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcWebStaticWithAuth", "Mvc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorWebStaticWithAuth", "RazorWebStaticWithAuth\RazorWebStaticWithAuth.csproj", "{D29E3D4B-BC75-4676-8CD4-9B047ACE82B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorWebAltStatic", "RazorWebAltStatic\RazorWebAltStatic.csproj", "{3AAE326C-4CA2-4A14-A3BB-96E2D2039182}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D29E3D4B-BC75-4676-8CD4-9B047ACE82B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D29E3D4B-BC75-4676-8CD4-9B047ACE82B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D29E3D4B-BC75-4676-8CD4-9B047ACE82B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AAE326C-4CA2-4A14-A3BB-96E2D2039182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AAE326C-4CA2-4A14-A3BB-96E2D2039182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AAE326C-4CA2-4A14-A3BB-96E2D2039182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AAE326C-4CA2-4A14-A3BB-96E2D2039182}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
